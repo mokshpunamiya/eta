@@ -3,10 +3,6 @@
        alt="Moksh Punamiya's Animated Intro"
        style="width:100%; max-width:1200px; height:auto;" />
 </p>
-![visitors](https://vbr.nathanchung.dev/badge?page_id=mokshpunamiya.mokshpunamiya&color=00cf00)
-
-*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-05-30`
-
 ---
 
 ## 🧠 About Me
